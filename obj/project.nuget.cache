@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trfObwYcS+gu/2iiqkydeCUalCFGqCGES9gKiln1w8EF5K2UT2vURvONTy1eHswK6rmg2ytEqoIHCLrxuNTVdA==",
+  "dgSpecHash": "MFv+RBJVillbpDLmmeJd7D21zQlSlZngXPTgcDRrUJVPa6toVnfe1AQwY5qyk/ITHoTb444qaMNDS9kgaNrpmw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\ProgramacionWebApiRest.csproj",
+  "projectFilePath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sistemas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sistemas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

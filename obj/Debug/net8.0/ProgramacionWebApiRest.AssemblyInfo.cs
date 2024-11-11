@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramacionWebApiRest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d2bf02cacb58cda243f66022307388115e2692f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cbdac8b39bfa4d890a7423b7bf158164c72bac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramacionWebApiRest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramacionWebApiRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

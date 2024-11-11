@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\ProgramacionWebApiRest.csproj": {}
+    "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\ProgramacionWebApiRest.csproj": {
+    "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\ProgramacionWebApiRest.csproj",
+        "projectUniqueName": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest.csproj",
         "projectName": "ProgramacionWebApiRest",
-        "projectPath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\ProgramacionWebApiRest.csproj",
+        "projectPath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest.csproj",
         "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\ProgramacionWebApiRest\\obj\\",
+        "outputPath": "c:\\Users\\Sistemas\\Documents\\SysVentAPI\\SysVentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
